@@ -1,9 +1,9 @@
 # Ex01 Ideal-Sampling
 ### Aim
-    Implement and analyze ideal sampling using Python colab.
+Implement and analyze ideal sampling using Python colab.
 ### Tools required
-      Personal computer,
-     Google colab software.
+Personal computer,
+Google colab software.
 ### Program
 ```python
 import numpy as np
@@ -47,5 +47,5 @@ plt.show()
 ![image](https://github.com/user-attachments/assets/1872b798-aa0d-4176-a517-22a7741bb254)
 
 ### Results
-     ideal sampling signal will be displayed in separate plots. Thus implemented using python colab.
+ideal sampling signal will be displayed in separate plots. Thus implemented using python colab.
   
